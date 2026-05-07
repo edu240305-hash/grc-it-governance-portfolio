@@ -1,3 +1,5 @@
-# IT Governance Executive Dashboard
-
-Projeto conceitual de dashboard executivo para Governança de TI.
+README.md
+dataset.csv
+imagens/
+documentacao.md
+dashboard.pbix
